@@ -2,7 +2,7 @@
 
 ## Features
 
-Opens baekjoon problem/submit page.
+Opens baekjoon problem/submit page.   
 (kinda useless but I made it)
 
 ## Release Notes
