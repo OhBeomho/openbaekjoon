@@ -3,6 +3,7 @@
   "displayName": "OpenBaekjoon",
   "description": "",
   "version": "1.0.0",
+  "repository": "https://github.com/OhBeomho/openbaekjoon",
   "engines": {
     "vscode": "^1.84.0"
   },
